@@ -47,3 +47,83 @@ main nav a {
 .lyft-blanco {
   height: 42px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Videos box style */
+article.video-content {
+  display: flex;
+  height: 485px;
+}
+
+article .video-text {
+  margin: 0;
+  padding: 5px 45px;
+  width: 33.4%;
+}
+
+article .video-text h5 {
+  margin-bottom: 0;
+}
+
+article .video-text h3 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+article .video-box {
+  width: 66.5%;
+}
+
+.video-content iframe {
+  height: 485px;
+  width: 856px;
+}
