@@ -90,3 +90,8 @@ Este reto será evaluado sobre lo siguiente:
 * Indentación
 * Archivo `README.md` actualizado y correctamente redactado
 * Uso de comentarios para hacer tu código más legible
+
+
+### Integrantes:
+Alejandra Cabrera Perez
+Katherine Levano Figueroa
