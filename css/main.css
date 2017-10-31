@@ -130,6 +130,51 @@ header p:nth-child(6) a {
   color: #b30086 ;
  text-decoration: underline;
 }
+/* section advantages */
+
+.advantages {
+  background:linear-gradient(#76278F, #2B1E66);
+  background-size: 100% 100%;
+  margin-top: 0;
+  color:white;
+}
+
+.advantages div h3:first-child {
+  margin-top: 0;
+  padding-top: 40px;
+}
+
+.advantages img {
+  height: 500px;
+  margin-left: 100px;
+}
+
+.block-left, .block-right {
+  display: inline-block;
+}
+
+.block-left {
+  vertical-align: top;
+  width: 43%;
+}
+
+.contenido {
+  margin-left: 140px;
+  line-height: 1.5;
+
+}
+
+.advantages p {
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+.advantages h3 {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
 
 /* Videos box style */
 article.video-content {
