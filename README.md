@@ -2,7 +2,7 @@
 
 * **Sprint 2:** _Creando un sitio web interactivo_
 * **Unidad 1:** _Maquetado web con HTML & CSS_
-* **Reto 1:** _Replicar página web LYFT_
+* **Reto 2:** _Replicar página web LYFT_
 
 ***
 
@@ -17,7 +17,7 @@ Consta de 4 secciones:
 
 * Header: Ubicación del menú navegador y formulario.
 * Advantage section: Contiene ventajas de elegir Lyft.
-* Videos section: Contiene 3 artuculos cada uno con 1 video y texto resumen.  
+* Videos section: Contiene 3 artículos cada uno con 1 video y texto resumen.  
 * Footer: Contiene lista de opciones, redes sociales y opciones de descarga.
 
 ## Imagen de página a replicar
