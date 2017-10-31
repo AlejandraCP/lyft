@@ -23,13 +23,17 @@ nav {
 
 main nav img {
   display: inline-block;
+  height: 42px;
+  margin-left: 50px;
+  margin-top: 50px;
+  vertical-align: top;
 }
 
 main nav ul {
   display: inline-block;
   text-decoration: none;
   margin-left: 700px;
-
+  margin-top: 50px;
   }
 
 main nav li {
@@ -44,6 +48,22 @@ main nav a {
   color: white;
 }
 
+main nav ul li:last-child {
+  border: 1px solid white;
+  border-radius: 5px 5px 5px 5px;
+  padding: 10px 18px 10px 18px;
+}
+
+nav a:hover {
+  color:#ff3ace;
+}
+
+.caja {
+  height: 420px;
+  width: 560px;
+  background: white;
+  outline: 1px solid red
+}
 .lyft-blanco {
   height: 42px;
 }
